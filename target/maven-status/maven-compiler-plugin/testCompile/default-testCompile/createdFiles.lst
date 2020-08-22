@@ -1,0 +1,12 @@
+pages\NewToursLoginPage.class
+stepdefinitions\Hooks.class
+stepdefinitions\ValidatingLoginPage.class
+runner\RunnerTest.class
+stepdefinitions\ProductListPageStepDefinitions.class
+pages\AutomationPracticeHomePageInterface.class
+stepdefinitions\BddTestsStepDefinition.class
+pages\ProductListPage.class
+pages\NewToursLoginPageInterface.class
+Utils\Utilities.class
+pages\AutomationPracticeHomePage.class
+stepdefinitions\HomePagestepDefinitions.class
